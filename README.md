@@ -41,8 +41,9 @@ Passionate about Data-Driven Decision Making 🚀
 - **Cloud Platforms:** AWS, Azure, GCP  
 - **ML Techniques:** Regression, KNN, Decision Tree, Naive Bayes, Random Forest  
 - **Other Tools:** Git, VS Code, dbt, SAS  
-- **Processes:** SDLC, Agile, Waterfall  
-- **Data Engineering:** ETL, Data Wrangling, Data Warehousing, Data Cleaning, Statistical Modelling  
+- **Processes:** SDLC, Agile, Waterfall
+- **Data Engineering:** ETL, Data Wrangling, Data Warehousing, Data Cleaning, Statistical Modelling
+  
 ---
 
 ## 💼 Professional Experience
