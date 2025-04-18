@@ -130,12 +130,25 @@ Passionate about Data-Driven Decision Making 🚀
 ---
 
 ## 🔗 Let's Connect
-
 <p align="center">
-  <a href="mailto:manojvallabhaneni16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/vall9133"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:manojvallabhaneni16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vall9133">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="tel:+18599797576">
+    <img src="https://img.shields.io/badge/Call-Now-green?style=for-the-badge&logo=phone&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/919133839367" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
+
+
 
 > 💡 *"Data is the new oil – let’s refine it for insights."*
 
