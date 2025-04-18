@@ -44,16 +44,6 @@ Passionate about Data-Driven Decision Making 🚀
 
 ---
 
-## 🎓 Education
-
-🎓 **Master of Science in Artificial Intelligence**  
-*Eastern Kentucky University (Expected Dec 2024)*  
-
-🎓 **Bachelor of Technology in Computer Science and Engineering**  
-*Jawaharlal Nehru Technological University (July 2022)*
-
----
-
 ## 💼 Professional Experience
 
 ### 🎓 Graduate Teaching Assistant — *Eastern Kentucky University*  
@@ -95,6 +85,16 @@ Passionate about Data-Driven Decision Making 🚀
 - 🧠 Built regression models: **Polynomial**, **Decision Tree**, **Random Forest**, and **KNN**  
 - 📉 Evaluated accuracy and visualized model outputs in stakeholder-friendly formats  
 - 💬 Delivered insights through dashboards to help non-technical users make informed decisions  
+
+---
+
+## 🎓 Education
+
+🎓 **Master of Science in Artificial Intelligence**  
+*Eastern Kentucky University (Expected Dec 2024)*  
+
+🎓 **Bachelor of Technology in Computer Science and Engineering**  
+*Jawaharlal Nehru Technological University (July 2022)*
 
 ---
 
