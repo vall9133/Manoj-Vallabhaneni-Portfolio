@@ -4,22 +4,12 @@ description: >-
   Aspiring Data Analyst | Data Engineer | Data Scientist — Passionate about transforming data into insights 🚀
 theme: jekyll-theme-minimal
 
-# Optional: Enable social links
-social_links:
-  linkedin: https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/
-  github: https://github.com/vall9133
-  email: manojvallabhaneni16@gmail.com
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      css: "assets/css/custom.css"
 
-# Optional: Personalize footer
-show_downloads: false  # You can enable if you add a downloadable resume
-google_analytics:  # Add your GA tracking ID if you want to track visits
 
-# Optional: Change accent color (if supported by the theme or via CSS override)
-# You can override minimal theme styles by adding a custom CSS file
-
-# Optional: Add navigation links (requires custom layout or index.md support)
-# nav:
-#   - title: Home
-#     url: /
-#   - title: Portfolio
-#     url: /portfolio
