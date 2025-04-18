@@ -98,9 +98,9 @@ Passionate about Data-Driven Decision Making 🚀
     <img src="./eku_logo.png" alt="Eastern Kentucky University" height="60"/>
   </a>  
   <br/>
-  🎓 **Master of Science in Artificial Intelligence**  
-  *Eastern Kentucky University ( December 2024)*
+  🎓 **M.S. in Artificial Intelligence** – Eastern Kentucky University (Dec 2024)
 </p>
+
 
 <p align="center">
   <a href="https://www.jntua.ac.in/" target="_blank">
@@ -129,7 +129,12 @@ Passionate about Data-Driven Decision Making 🚀
 
 ---
 
-## 🔗 Let's Connect
+## 📬 Contact Me
+
+📫 **Email:** [manojvallabhaneni16@gmail.com](mailto:manojvallabhaneni16@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212](https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/)  
+📱 **Call:** +1 859-979-7576  
+
 <p align="center">
   <a href="mailto:manojvallabhaneni16@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -137,7 +142,6 @@ Passionate about Data-Driven Decision Making 🚀
   <a href="https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="tel:+18599797576">
     <img src="https://img.shields.io/badge/Call-Now-green?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
