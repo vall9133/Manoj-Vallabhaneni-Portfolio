@@ -27,32 +27,37 @@ Aspiring **Data Analyst** | Passionate about Data-Driven Decision Making
 
 ## 💼 Professional Experience
 
-### Graduate Teaching Assistant @ Eastern Kentucky University  
-*Aug 2023 – Dec 2024, Richmond, KY*
-- Managed academic data systems for attendance and grades, improving data accuracy and insights.
-- Boosted classroom engagement by 15% through structured academic mentoring.
-- Conducted personalized tutoring sessions, resulting in a 20% performance improvement.
+### 🎓 Graduate Teaching Assistant — Eastern Kentucky University  
+*Aug 2023 – Dec 2024 | Richmond, KY*
+- Maintained academic data systems to track attendance and grades, improving accuracy and insights.  
+- Designed workshop material and assisted faculty in courses involving Python and data visualization tools.  
+- Provided one-on-one tutoring, improving student performance by 20%.  
+- Boosted classroom engagement by 15% through structured academic mentoring and support sessions.  
+- Supported research activities involving data cleaning, visualization, and statistical modeling using R and Python.  
 
-### Software Engineer @ Persistent Systems Ltd.  
-*Jul 2022 – Jul 2023, Pune, India*
-- Developed scalable ETL pipelines in **Snowflake** using **dbt**, cutting data processing time by 30%.
-- Enhanced data warehouse performance, reducing costs by 25%.
-- Automated workflows and created Power BI dashboards that improved decision-making efficiency by 30%.
+### 🧑‍💻 Software Engineer — Persistent Systems Ltd.  
+*Jul 2022 – Jul 2023 | Pune, India*
+- Designed and deployed scalable ETL pipelines in **Snowflake** using **dbt**, reducing data processing time by 30%.  
+- Tuned Snowflake configurations to boost warehouse performance and reduced compute cost by 25%.  
+- Developed robust dashboards in **Power BI** using **DAX** and **Power Query** for real-time decision-making.  
+- Automated manual reporting workflows and improved data refresh cycle by 40%.  
+- Collaborated with analysts and business users to refine KPIs, troubleshoot bugs, and drive continuous improvement.
 
 ---
 
 ## 🧪 Academic Projects
 
-### 📈 Titanic Dataset Visualization
-- Performed EDA to discover survival patterns using age, gender, and class.
-- Built over 5 interactive visualizations in **Python** and **Tableau**, improving stakeholder clarity by 25%.
+### 📊 Visualization of Titanic Dataset *(Python, Tableau)*
+- Conducted exploratory data analysis (EDA) on the Titanic dataset to uncover survival patterns based on age, gender, passenger class, and crew status.
+- Created 5+ interactive visualizations using **Matplotlib**, **Seaborn**, and **Tableau** to enhance stakeholder clarity and engagement.
+- Applied statistical summaries and visual comparisons to effectively communicate insights to both technical and non-technical audiences.
 
-### 💰 Medical Premium Insurance Cost Prediction
-- Cleaned and transformed data using one-hot encoding and normalization.
-- Applied multiple regression models to forecast insurance costs, revealing key predictive insights.
+### 💡 Medical Insurance Premium Prediction *(Python, Scikit-learn)*
+- Cleaned and preprocessed health insurance datasets using **one-hot encoding**, **feature scaling**, and **missing value imputation**.
+- Developed and evaluated multiple regression models including **Polynomial Regression**, **Decision Tree**, **Random Forest**, and **K-Nearest Neighbors (KNN)** to predict medical insurance costs.
+- Presented model results via dashboards and visual reports to help non-technical stakeholders understand predictive insights.
 
 ---
-
 ## 📜 Certifications
 - ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
 - ✅ Google Cloud Certified: Associate Cloud Engineer
@@ -62,7 +67,7 @@ Aspiring **Data Analyst** | Passionate about Data-Driven Decision Making
 
 ## 🔗 Let's Connect
 - 📫 Email: [manojvallabhaneni16@gmail.com](mailto:manojvallabhaneni16@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/vall9133)
+- 💼 [LinkedIn]([https://linkedin.com/in/vall9133](https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/))
 - 💻 [GitHub](https://github.com/vall9133)
 
 ---
