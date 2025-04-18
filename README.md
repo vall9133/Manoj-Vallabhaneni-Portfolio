@@ -1,7 +1,5 @@
 # 👨‍💻 Manoj Kumar Vallabhaneni
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://vall9133.github.io/manoj-vallabhaneni-portfolio/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vall9133.manoj-vallabhaneni-portfolio)
-
 
 **Aspiring Data Analyst**, **Data Engineer**, and **Data Scientist**  
 Passionate about Data-Driven Decision Making 🚀
@@ -31,6 +29,7 @@ Passionate about Data-Driven Decision Making 🚀
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+
 ---
 
 ## 📊 Technical Skills
@@ -44,7 +43,6 @@ Passionate about Data-Driven Decision Making 🚀
 - **Other Tools:** Git, VS Code, dbt, SAS  
 - **Processes:** SDLC, Agile, Waterfall  
 - **Data Engineering:** ETL, Data Wrangling, Data Warehousing, Data Cleaning, Statistical Modelling  
-
 ---
 
 ## 💼 Professional Experience
@@ -115,12 +113,13 @@ Passionate about Data-Driven Decision Making 🚀
 - 💼 **LinkedIn:** [linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212](https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/)  
 - 💻 **GitHub:** [github.com/vall9133](https://github.com/vall9133)
 
-## 📈 GitHub Stats
-
-![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vall9133&show_icons=true&theme=default)
-
-
 ---
+
+<p align="center">
+  <a href="mailto:manojvallabhaneni16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/vall9133"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 > 💡 *"Data is the new oil – let’s refine it for insights."*
 
