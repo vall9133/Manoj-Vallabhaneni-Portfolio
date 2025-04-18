@@ -1,4 +1,7 @@
 # 👨‍💻 Manoj Kumar Vallabhaneni
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://vall9133.github.io/manoj-vallabhaneni-portfolio/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vall9133.manoj-vallabhaneni-portfolio)
+
 
 **Aspiring Data Analyst**, **Data Engineer**, and **Data Scientist**  
 Passionate about Data-Driven Decision Making 🚀
@@ -111,6 +114,11 @@ Passionate about Data-Driven Decision Making 🚀
 - 📫 **Email:** [manojvallabhaneni16@gmail.com](mailto:manojvallabhaneni16@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212](https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/)  
 - 💻 **GitHub:** [github.com/vall9133](https://github.com/vall9133)
+
+## 📈 GitHub Stats
+
+![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vall9133&show_icons=true&theme=default)
+
 
 ---
 
