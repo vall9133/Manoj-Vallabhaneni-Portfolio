@@ -1,48 +1,74 @@
+# 👨‍💻 Manoj Kumar Vallabhaneni
 
-# Data Analyst
+Aspiring **Data Analyst** | Passionate about Data-Driven Decision Making
 
-## Technical Skills: 
--	Programming: Python, SQL, R and Java
--	Libraries: NumPy, Pandas, SciPy, Seaborn, Matplotlib and Scikit-Learn
--	Databases: MySQL, MongoDB
--	Visualization Tools: Power BI, Microsoft Excel and Tableau
--	Methodologies: SDLC, Agile, Waterfall
--	Cloud Technologies: AWS (Amazon Web Services), Azure, Google Cloud Platform
--	ML Techniques: Regression, KNN, Decision Tree, Naive Bayes, Random Forest
--	Tools: Git, Visual Studio Code
--	Analytical Skills: SAS, Data Cleaning, Data Mining, Data Warehousing, Statistical Modelling, Data Wrangling, ETL, Data Visualization
+---
 
+## 📊 Technical Skills
+- **Programming:** Python, SQL, R, Java
+- **Libraries:** NumPy, Pandas, SciPy, Seaborn, Matplotlib, Scikit-Learn
+- **Databases:** MySQL, MongoDB
+- **Visualization Tools:** Power BI, Tableau, Microsoft Excel
+- **Cloud Platforms:** AWS, Azure, GCP
+- **ML Techniques:** Regression, KNN, Decision Tree, Naive Bayes, Random Forest
+- **Other Tools:** Git, VS Code, dbt, SAS
+- **Processes:** SDLC, Agile, Waterfall
+- **Data Engineering:** ETL, Data Wrangling, Data Warehousing, Data Cleaning, Statistical Modelling
 
-## Education							       		
-- M.S., Computer Science	|Eastern Kentucky University(December 2024)	 			        		
-- Bachelors., Computer Science | Jawaharlal Nehru Technological University (July 2022)
+---
 
-## Work Experience
-**Graduate Teaching Assistant  @ Eastern Kentucky Univeristy (August 2023 - December 2024)**
-- Managed and updated academic data systems to track attendance and grades, improving data integrity and enabling actionable insights for faculty.
-- Fostered an engaging learning environment, increasing student participation by 15% through structured class support and mentoring.
-- Delivered one-on-one tutoring sessions that contributed to a 20% boost in performance among targeted students.
-  
-**Software Engineer @ Peristent Systsms Limited (July 2022 -July 2023 )**
-- Designed and deployed scalable data pipelines in Snowflake using dbt, reducing data processing time by 30% through efficient ETL optimization.
-- Tuned Snowflake configurations to improve performance and scalability, resulting in a 25% cost reduction across large-scale data operations.
-- Automated key data workflows, reducing manual interventions by 40% and accelerating data ingestion and transformation efficiency.
-- Built interactive Power BI dashboards to deliver real-time business insights, enhancing decision-making speed and accuracy by 30%.
-  
-## Academic Project Experience
-### Visualization of Titanic Dataset  
-- Conducted exploratory data analysis on the Titanic dataset to uncover survival rate patterns based on age, gender, passenger class, and crew status
-- Designed and delivered 5+ interactive visualizations (scatter plots, bar charts) using Matplotlib, Seaborn, and Tableau, boosting stakeholder clarity by 25% and engagement by 30%.
+## 🎓 Education
+- **Master of Science in Artificial Intelligence**  
+  Eastern Kentucky University (Expected Dec 2024)
+- **Bachelor of Technology in Computer Science and Engineering**  
+  Jawaharlal Nehru Technological University (July 2022)
 
-### Medical Premium Insurance Cost Prediction   
-- Preprocessed raw medical data by filtering irrelevant features, applying one-hot encoding, and normalizing numerical variables to enhance model accuracy and fairness.
-- Performed exploratory data analysis (EDA) using bar plots and distribution graphs to identify trends in demographic and lifestyle factors affecting insurance costs.
+---
 
-### Certifications
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Google Cloud Certified Associate Cloud Engineer
+## 💼 Professional Experience
 
+### Graduate Teaching Assistant @ Eastern Kentucky University  
+*Aug 2023 – Dec 2024, Richmond, KY*
+- Managed academic data systems for attendance and grades, improving data accuracy and insights.
+- Boosted classroom engagement by 15% through structured academic mentoring.
+- Conducted personalized tutoring sessions, resulting in a 20% performance improvement.
 
+### Software Engineer @ Persistent Systems Ltd.  
+*Jul 2022 – Jul 2023, Pune, India*
+- Developed scalable ETL pipelines in **Snowflake** using **dbt**, cutting data processing time by 30%.
+- Enhanced data warehouse performance, reducing costs by 25%.
+- Automated workflows and created Power BI dashboards that improved decision-making efficiency by 30%.
 
-                                                                 
+---
+
+## 🧪 Academic Projects
+
+### 📈 Titanic Dataset Visualization
+- Performed EDA to discover survival patterns using age, gender, and class.
+- Built over 5 interactive visualizations in **Python** and **Tableau**, improving stakeholder clarity by 25%.
+
+### 💰 Medical Premium Insurance Cost Prediction
+- Cleaned and transformed data using one-hot encoding and normalization.
+- Applied multiple regression models to forecast insurance costs, revealing key predictive insights.
+
+---
+
+## 📜 Certifications
+- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
+- ✅ Google Cloud Certified: Associate Cloud Engineer
+- ✅ Databricks Accredited Lakehouse Fundamentals
+
+---
+
+## 🔗 Let's Connect
+- 📫 Email: [manojvallabhaneni16@gmail.com](mailto:manojvallabhaneni16@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/vall9133)
+- 💻 [GitHub](https://github.com/vall9133)
+
+---
+
+> 💡 "Data is the new oil – let’s refine it for insights."
+
+---
+
 
