@@ -33,6 +33,7 @@
 ### Visualization of Titanic Dataset  
 - Conducted exploratory data analysis on the Titanic dataset to uncover survival rate patterns based on age, gender, passenger class, and crew status
 - Designed and delivered 5+ interactive visualizations (scatter plots, bar charts) using Matplotlib, Seaborn, and Tableau, boosting stakeholder clarity by 25% and engagement by 30%.
+
 ### Medical Premium Insurance Cost Prediction   
 - Preprocessed raw medical data by filtering irrelevant features, applying one-hot encoding, and normalizing numerical variables to enhance model accuracy and fairness.
 - Performed exploratory data analysis (EDA) using bar plots and distribution graphs to identify trends in demographic and lifestyle factors affecting insurance costs.
