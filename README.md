@@ -99,7 +99,7 @@ Passionate about Data-Driven Decision Making 🚀
   </a>  
   <br/>
   🎓 **Master of Science in Artificial Intelligence**  
-  *Eastern Kentucky University (Expected Dec 2024)*
+  *Eastern Kentucky University ( December 2024)*
 </p>
 
 <p align="center">
@@ -130,12 +130,6 @@ Passionate about Data-Driven Decision Making 🚀
 ---
 
 ## 🔗 Let's Connect
-
-- 📫 **Email:** [manojvallabhaneni16@gmail.com](mailto:manojvallabhaneni16@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212](https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/)  
-- 💻 **GitHub:** [github.com/vall9133](https://github.com/vall9133)
-
----
 
 <p align="center">
   <a href="mailto:manojvallabhaneni16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
