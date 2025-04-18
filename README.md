@@ -72,14 +72,13 @@ Passionate about Data-Driven Decision Making 🚀
 
 ## 🧪 Academic Projects
 
-### 📊 Visualization of Titanic Dataset *(R, ggplot2)*
+### 📊 Visualization of Titanic Dataset *(R, ggplot2)* [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/vall9133/Visualization-of-Titanic-dataset)
 
 - 🔍 Performed exploratory data analysis (EDA) on the Titanic dataset using **R**, focusing on survival patterns  
 - 📊 Used **ggplot2** and **dplyr** to create bar charts, histograms, and faceted plots  
 - 📈 Summarized key statistics and visual comparisons to communicate insights clearly  
 - 👥 Highlighted how socio-economic and demographic factors influenced survival outcomes  
 
----
 
 ### 💡 Medical Insurance Premium Prediction *(Python, Scikit-learn)*
 
