@@ -150,8 +150,12 @@ Passionate about Data-Driven Decision Making 🚀
   </a>
 </p>
 
+<p align="center">
+  <a href="#top">🔼 Back to Top</a>
+</p>
 
 
 > 💡 *"Data is the new oil – let’s refine it for insights."*
+
 
 ---
