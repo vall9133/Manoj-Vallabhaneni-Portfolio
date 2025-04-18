@@ -1,6 +1,5 @@
 # 👨‍💻 Manoj Kumar Vallabhaneni
 
-📍 Based in KY | Open to Remote Opportunities | F1 OPT Eligible  
 **Aspiring Data Analyst**, **Data Engineer**, and **Data Scientist**  
 Passionate about Data-Driven Decision Making 🚀
 
