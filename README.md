@@ -68,7 +68,7 @@ Aspiring **Data Analyst** | Passionate about Data-Driven Decision Making
 
 ## 🔗 Let's Connect
 - 📫 Email: [manojvallabhaneni16@gmail.com](mailto:manojvallabhaneni16@gmail.com)
-- 💼 [LinkedIn]((https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/)
 - 💻 [GitHub](https://github.com/vall9133)
 
 ---
