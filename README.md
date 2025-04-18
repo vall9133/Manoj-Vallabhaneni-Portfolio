@@ -47,10 +47,11 @@ Aspiring **Data Analyst** | Passionate about Data-Driven Decision Making
 
 ## 🧪 Academic Projects
 
-### 📊 Visualization of Titanic Dataset *(Python, Tableau)*
-- Conducted exploratory data analysis (EDA) on the Titanic dataset to uncover survival patterns based on age, gender, passenger class, and crew status.
-- Created 5+ interactive visualizations using **Matplotlib**, **Seaborn**, and **Tableau** to enhance stakeholder clarity and engagement.
-- Applied statistical summaries and visual comparisons to effectively communicate insights to both technical and non-technical audiences.
+### 📊 Visualization of Titanic Dataset *(R, ggplot2)*
+- Performed exploratory data analysis (EDA) on the Titanic dataset using **R**, focusing on survival patterns across variables such as age, gender, passenger class, and embarkation point.
+- Utilized **ggplot2** and **dplyr** to generate meaningful visualizations including bar charts, histograms, and faceted plots for subgroup analysis.
+- Applied statistical summaries and visual comparisons to effectively communicate trends and insights.
+- Demonstrated how demographic and socio-economic factors influenced survival rates, supporting data-driven storytelling.
 
 ### 💡 Medical Insurance Premium Prediction *(Python, Scikit-learn)*
 - Cleaned and preprocessed health insurance datasets using **one-hot encoding**, **feature scaling**, and **missing value imputation**.
@@ -67,7 +68,7 @@ Aspiring **Data Analyst** | Passionate about Data-Driven Decision Making
 
 ## 🔗 Let's Connect
 - 📫 Email: [manojvallabhaneni16@gmail.com](mailto:manojvallabhaneni16@gmail.com)
-- 💼 [LinkedIn]([https://linkedin.com/in/vall9133](https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/))
+- 💼 [LinkedIn]((https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/))
 - 💻 [GitHub](https://github.com/vall9133)
 
 ---
