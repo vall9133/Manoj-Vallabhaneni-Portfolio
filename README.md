@@ -1,3 +1,4 @@
+> 📌 *Welcome to my portfolio-style README! Scroll down for projects, skills, and contact links.*
 # 👨‍💻 Manoj Kumar Vallabhaneni
 
 Aspiring **Data Analyst** | Passionate about Data-Driven Decision Making
