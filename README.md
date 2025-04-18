@@ -22,6 +22,7 @@
 - Managed and updated academic data systems to track attendance and grades, improving data integrity and enabling actionable insights for faculty.
 - Fostered an engaging learning environment, increasing student participation by 15% through structured class support and mentoring.
 - Delivered one-on-one tutoring sessions that contributed to a 20% boost in performance among targeted students.
+  
 **Software Engineer @ Peristent Systsms Limited (July 2022 -July 2023 )**
 - Designed and deployed scalable data pipelines in Snowflake using dbt, reducing data processing time by 30% through efficient ETL optimization.
 - Tuned Snowflake configurations to improve performance and scalability, resulting in a 25% cost reduction across large-scale data operations.
