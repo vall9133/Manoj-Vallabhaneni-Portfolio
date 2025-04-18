@@ -90,21 +90,42 @@ Passionate about Data-Driven Decision Making 🚀
 
 ---
 
+
 ## 🎓 Education
 
-🎓 **Master of Science in Artificial Intelligence**  
-*Eastern Kentucky University (Expected Dec 2024)*  
+<p align="center">
+  <a href="https://www.eku.edu/" target="_blank">
+    <img src="./eku_logo.png" alt="Eastern Kentucky University" height="60"/>
+  </a>  
+  <br/>
+  🎓 **Master of Science in Artificial Intelligence**  
+  *Eastern Kentucky University (Expected Dec 2024)*
+</p>
 
-🎓 **Bachelor of Technology in Computer Science and Engineering**  
-*Jawaharlal Nehru Technological University (July 2022)*
+<p align="center">
+  <a href="https://www.jntua.ac.in/" target="_blank">
+    <img src="./jntua_logo.png" alt="Jawaharlal Nehru Technological University" height="60"/>
+  </a>  
+  <br/>
+  🎓 **Bachelor of Technology in Computer Science and Engineering**  
+  *Jawaharlal Nehru Technological University Anantapur (July 2022)*
+</p>
+
+
 
 ---
 
+
 ## 📜 Certifications
 
-- 🧾 Microsoft Certified: Azure Fundamentals (AZ-900)  
-- 🧾 Google Cloud Certified: Associate Cloud Engineer  
-- 🧾 Databricks Accredited Lakehouse Fundamentals  
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-blue?logo=microsoftazure&style=for-the-badge" alt="Azure Fundamentals Badge" />
+  <br>
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Certified-Associate%20Cloud%20Engineer-orange?logo=googlecloud&style=for-the-badge" alt="GCP ACE Badge" />
+  <br>
+  <img src="https://img.shields.io/badge/Databricks-Accredited%20Lakehouse%20Fundamentals-red?logo=databricks&style=for-the-badge" alt="Databricks Badge" />
+</p>
+
 
 ---
 
