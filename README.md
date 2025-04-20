@@ -80,7 +80,7 @@ Passionate about Data-Driven Decision Making 🚀
 - 👥 Highlighted how socio-economic and demographic factors influenced survival outcomes  
 
 ### 💡 Medical Insurance Premium Prediction *(Python, Scikit-learn)*  
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/vall9133/medical-insurance-predictio)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/vall9133/medical-insurance-prediction)
 
 - 🧼 Cleaned and preprocessed health insurance datasets using **one-hot encoding**, **scaling**, and **imputation**  
 - 🧠 Built regression models: **Polynomial**, **Decision Tree**, **Random Forest**, and **KNN**  
