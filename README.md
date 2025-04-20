@@ -47,15 +47,15 @@ Passionate about Data-Driven Decision Making 🚀
 ---
 
 ## 💼 Professional Experience
-
 ### 🎓 Graduate Teaching Assistant — *Eastern Kentucky University*  
 *Aug 2023 – Dec 2024 | Richmond, KY*
 
-- 📘 Maintained academic data systems to track attendance and grades, improving accuracy and insights  
-- 🛠️ Designed workshop material and assisted faculty in courses involving Python and data visualization tools  
-- 👨‍🏫 Provided one-on-one tutoring, improving student performance by 20%  
-- 📊 Boosted classroom engagement by 15% through structured academic mentoring and support sessions  
-- 🔬 Supported research activities involving data cleaning, visualization, and statistical modeling using R and Python  
+- 📊 Managed and maintained academic data (attendance, grades) using spreadsheets and scripts, enhancing reporting accuracy and enabling data-driven insights  
+- 🧹 Assisted in data cleaning and preprocessing for faculty-led research projects using **Python**, **R**, and **Excel**  
+- 📈 Created visual reports and dashboards to track student performance, supporting academic interventions  
+- 🧪 Supported statistical analysis tasks such as correlation analysis, hypothesis testing, and regression modeling in course content and research  
+- 🧠 Conducted hands-on sessions on **data visualization tools** and **Python libraries** like Pandas, Matplotlib, and Seaborn, improving peer understanding  
+- 📚 Provided one-on-one tutoring in analytical subjects, resulting in a 20% improvement in student grades  
 
 ---
 
