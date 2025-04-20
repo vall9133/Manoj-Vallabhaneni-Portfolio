@@ -9,7 +9,7 @@ Passionate about Data-Driven Decision Making 🚀
 ## ✨ Profile Highlights
 - 📌 2.5+ years of experience in data analytics, visualization, and ETL pipeline development  
 - 🔄 Hands-on with end-to-end data workflows — from ingestion to visualization  
-- 🏢 Experience across academic, corporate, and cloud-native data environments  
+- 🏢 Hands-on experience across academic, corporate, and cloud-native data environments  
 - 🤖 Strong foundation in AI and machine learning with practical applications  
 - 📈 Passionate about storytelling with data, continuous learning, and scalable systems  
 - 🗣️ Excellent communicator with experience explaining data insights to non-technical stakeholders and cross-functional teams  
@@ -79,13 +79,13 @@ Passionate about Data-Driven Decision Making 🚀
 - 📈 Summarized key statistics and visual comparisons to communicate insights clearly  
 - 👥 Highlighted how socio-economic and demographic factors influenced survival outcomes  
 
-### 💡 Medical Insurance Premium Prediction *(Python, Scikit-learn)*  
+### 💡 Medical Insurance Premium Prediction *(Machine Learning, Python, Scikit-learn)*
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/vall9133/medical-insurance-prediction)
 
-- 🧼 Cleaned and preprocessed health insurance datasets using **one-hot encoding**, **scaling**, and **imputation**  
-- 🧠 Built regression models: **Polynomial**, **Decision Tree**, **Random Forest**, and **KNN**  
-- 📉 Evaluated accuracy and visualized model outputs in stakeholder-friendly formats  
-- 💬 Delivered insights through dashboards to help non-technical users make informed decisions  
+- 🧼 Cleaned and transformed health insurance data using **one-hot encoding**, **feature scaling**, and **imputation**  
+- 🧠 Developed multiple regression models including **Polynomial**, **Decision Tree**, **Random Forest**, and **KNN**  
+- 📉 Evaluated performance using **R²**, **MAE**, and **MSE**, and visualized results with **Seaborn** and **Matplotlib**  
+- 💬 Delivered insights through interactive visualizations to help non-technical stakeholders make informed decisions  
 
 ---
 
@@ -97,7 +97,7 @@ Passionate about Data-Driven Decision Making 🚀
     <img src="./eku_logo.png" alt="Eastern Kentucky University" height="60"/>
   </a>  
   <br/>
-  🎓 **M.S. in Artificial Intelligence** – Eastern Kentucky University (Dec 2024)
+  🎓 **M.S. in Artificial Intelligence** – Eastern Kentucky University (December 2024)
 </p>
 
 
@@ -132,7 +132,8 @@ Passionate about Data-Driven Decision Making 🚀
 
 📫 **Email:** [manojvallabhaneni16@gmail.com](mailto:manojvallabhaneni16@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212](https://www.linkedin.com/in/manoj-kumar-vallabhaneni-5b3774212/)  
-📱 **Call:** +1 859-979-7576  
+📞 **Phone:** +1 859-979-7576
+ 
 
 <p align="center">
   <a href="mailto:manojvallabhaneni16@gmail.com">
