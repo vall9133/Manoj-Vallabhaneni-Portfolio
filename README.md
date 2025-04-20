@@ -87,6 +87,15 @@ Passionate about Data-Driven Decision Making 🚀
 - 📉 Evaluated performance using **R²**, **MAE**, and **MSE**, and visualized results with **Seaborn** and **Matplotlib**  
 - 💬 Delivered insights through interactive visualizations to help non-technical stakeholders make informed decisions  
 
+### 🏧 ATM Management System *(C#, Windows Forms, SQL Server)*  
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat-square&logo=github)](https://github.com/vall9133/ATM-Management-System-)
+
+- 🛠️ Built a complete **desktop-based banking system** using **C# in Visual Studio** and **Windows Forms**
+- 🔐 Implemented **secure user login**, session control, and transaction validation features  
+- 💰 Developed features for **withdrawals, deposits, balance inquiry, and fund transfers** with real-time database updates  
+- 🧩 Designed and implemented **UML diagrams** (Use Case, Class, Activity, Sequence, State) to plan and validate design  
+- 🗃️ Created a normalized **SQL Server database** with tables for `Customer`, `Account`, and `Transaction` entities  
+
 ---
 
 
