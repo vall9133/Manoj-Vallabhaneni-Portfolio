@@ -59,7 +59,7 @@ Passionate about Data-Driven Decision Making 🚀
 
 ---
 
-### 🧑‍💻 Software Engineer — *Persistent Systems Ltd.*  
+### 🧑‍💻 Data Analyst — *Persistent Systems Ltd.*  
 *Jul 2022 – Jul 2023 | Pune, India*
 
 - 🏗️ Designed and deployed scalable ETL pipelines in **Snowflake** using **dbt**, reducing data processing time by 30%  
