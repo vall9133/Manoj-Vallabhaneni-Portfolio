@@ -7,7 +7,7 @@ Passionate about Data-Driven Decision Making 🚀
 ---
 
 ## ✨ Profile Highlights
-- 📌 2.5+ years of experience in data analytics, visualization, and ETL pipeline development  
+- 📌 3 years of experience in data analytics, visualization, and ETL pipeline development  
 - 🔄 Hands-on with end-to-end data workflows — from ingestion to visualization  
 - 🏢 Hands-on experience across academic, corporate, and cloud-native data environments  
 - 🤖 Strong foundation in AI and machine learning with practical applications  
